@@ -20,4 +20,7 @@ V2.0(TBD)
 V3.0(TBD)
 * Migrate using Spring as a Web application with register/login/logoff functions
 
+V4.0(TBD)
+* Multi-user concurrently play in the same game
+
 
