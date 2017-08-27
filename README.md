@@ -3,7 +3,7 @@ Extinction-Level-Incident(ELI) is a small JApplet game just for fun. Eliminate t
 
 ### Features
 V1.0
-* Basic functions
+* Basic functions:
   * random generated meteors
   * random falling speed
   * laser gun beam when pressed
@@ -13,14 +13,14 @@ V1.0
   * random generated polygon as meteors shape
   * generate a rectangle instead of line as laser beam
 
-V2.0(TBD)
-* Using mysql to record user name and score
-* Display highest ten users/score when game over
+V2.0
+* Basic functions:
+  * Restructure file orgnization
+  * Using mysql with Spring JdbcTemplate to record user name and score
+  * Display highest ten users/score when game over
+* Hightlights:
+  * Draw table and score on screen directly 
 
-V3.0(TBD)
-* Migrate using Spring as a Web application with register/login/logoff functions
 
-V4.0(TBD)
-* Multi-user concurrently play in the same game
 
 
