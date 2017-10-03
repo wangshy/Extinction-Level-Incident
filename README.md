@@ -1,6 +1,7 @@
 # Extinction-Level-Incident
 Extinction-Level-Incident(ELI) is a small JApplet game just for fun. Eliminate the meteors by pressing on them with your mouse to save the world. When you get 10 meteors, you will win a nuclear bomb which you can use to erase all the meteors on screen. However, the game will evolve with more difficulty if you have used the nuclear bomb.
-
+![Game image](doc/UI.jpg)
+![Database image](doc/DB.jpjg)
 ### Features
 V1.0
 * Basic functions:
