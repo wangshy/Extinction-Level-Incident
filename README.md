@@ -3,7 +3,6 @@ Extinction-Level-Incident(ELI) is a small JApplet game just for fun. Eliminate t
 
 <p align="center">
   <img src="doc/Game.jpg" width="350"/>
-  <br/>
   <img src="doc/DB.jpg" width="350"/>
 </p>
 
